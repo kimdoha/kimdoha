@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-  
+<!--
 ![Minji's github stats](https://github-readme-stats.vercel.app/api?username=minnji88&show_icons=true)
+-->
