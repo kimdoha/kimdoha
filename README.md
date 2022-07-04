@@ -6,7 +6,7 @@
 
 
 <!--
-**minnji88/minnji88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kimdoha/kimdoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 
 <!--
-![Minji's github stats](https://github-readme-stats.vercel.app/api?username=minnji88&show_icons=true)
+![Kimdoha's github stats](https://github-readme-stats.vercel.app/api?username=kimdoha&show_icons=true)
 -->
