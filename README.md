@@ -20,7 +20,7 @@
 
 ### Awards
 ---
-`2022` Junction Asia Hackerton Microsoft Track FinalList 2nd   
+`2022` Junction Asia Hackathon Microsoft Track FinalList 2nd   
 `2022` 2022-2 창의학습공동체 대상 수상 (팀 명 : 이도령)  
 `2022` 제 14회 창의설계경진대회 우수상 수상 (팀 명 : 이도령)  
 `2022` 제 11회 교내 공학교육인증 창의설계 경진대회 장려상 수상 (팀 명 : 이도령)  
@@ -29,7 +29,15 @@
 
 ### Activity
 ---
-- U
+
+<details>
+<summary>2021-2022</summary>
+<div markdown="1">
+
+`2021` 세종대학교 UMC(University MakeUS Challenge) 앱 런칭 IT 동아리 1기 Founder
+
+</div>
+</details>
 
 ### Apps
 ---
