@@ -29,7 +29,14 @@
 
 ### Activity
 ---
+<details>
+<summary>2021-2022</summary>
+<div markdown="1">
 
+`2021` 세종대학교 UMC(University MakeUS Challenge) 앱 런칭 IT 동아리 1기 Founder
+
+</div>
+</details>
 
 ### Apps
 ---
