@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=flat&logo=JSON Web Tokens&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Nestjs-D91313?style=flat&logo=nestjs&logoColor=white">
 </div>
