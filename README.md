@@ -21,11 +21,11 @@
 
 
  
- ## Awards
+<!--- ## History
  <div align=left>
   <li>Junction Asia Hackathon Microsoft Track FinalList 2nd<sub>(2022.08)</sub></li>
   <li>세종대학교 소프트웨어학과 학술제 우수상 수상<sub>(2023.06)</sub></li>
   <li>세종대학교 소프트웨어학과 학술제 최우수상 수상<sub>(2022.06)</sub></li>
   <li>세종대학교 제 14회 교내 창의설계경진대회 우수상 수상<sub>(2022.12)</sub></li>
   <li>제 11회 교내 공학교육인증 창의설계 경진대회 장려상 수상<sub>(2022.12)</sub></li>
- </div>
+ </div>--->
